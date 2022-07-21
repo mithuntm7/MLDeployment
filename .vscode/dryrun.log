@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/mithun.tm/IISc/MLOPs DA212/Projects/MLOpsImage-main 3'
+make: Leaving directory `/Users/mithun.tm/IISc/MLOPs DA212/Projects/MLOpsImage-main 3'
+ 
+Makefile:6: *** missing separator.  Stop.
+
